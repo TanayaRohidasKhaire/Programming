@@ -27,8 +27,8 @@ I am currently learning programming fundamentals and improving my problem-solvin
 ├── C
 ├── CPP
 ├── Java
-├── Assignments
-└── Notes
+├── Competitive
+└── Practice
 
 ## Progress
 
