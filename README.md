@@ -1,63 +1,50 @@
 # Programming Journey
 
 ## About
-This repository contains my daily programming practice, problem-solving exercises, and coding assignments.
 
-The goal of this repository is to strengthen programming fundamentals, improve logical thinking, and prepare for software development internships and placements.
+This repository contains my coding practice, assignments, and learning projects.
 
-## Current Learning Focus
+I am currently learning programming fundamentals and improving my problem-solving skills through regular practice.
+
+## Currently Learning
+
 - C Programming
 - C++
 - Java
-- Python
-- Data Structures
-- Algorithms
-- Web Development
+- Programming Logic
+- Data Structures (Beginner)
 
 ## Goals
-- Build strong programming fundamentals
-- Improve problem-solving skills
-- Develop coding consistency
-- Create a solid GitHub portfolio
-- Prepare for software developer roles
+
+- Strengthen programming fundamentals
+- Improve logical thinking
+- Build coding consistency
+- Learn Data Structures and Algorithms
+- Prepare for internships and placements
 
 ## Repository Structure
 
-Programming-Journey/
-│
-├── C/
-├── CPP/
-├── Java/
-├── Python/
-├── Data-Structures/
-├── Algorithms/
-├── Assignments/
-└── Notes/
+├── C
+├── CPP
+├── Java
+├── Assignments
+└── Notes
 
 ## Progress
 
-- [ ] C Programming
-- [ ] C++
-- [ ] Java
-- [ ] Python
-- [ ] Data Structures
-- [ ] Algorithms
-- [ ] Web Development
+- [x] Started my programming journey
+- [ ] Complete programming fundamentals
+- [ ] Learn Data Structures
+- [ ] Learn Algorithms
+- [ ] Build projects
+- [ ] Prepare for placements
 
-## Daily Practice
-- Solve programming problems
-- Learn new concepts
-- Revise previous topics
-- Upload code regularly
+## Daily Commitment
 
-## Learning Philosophy
-
-> Small daily improvements lead to long-term success.
-
-Consistency, practice, and continuous learning are the foundation of becoming a skilled software developer.
+- Learn something new
+- Practice coding
+- Upload solutions regularly
 
 ## Author
 
-**Tanaya Khaire**  
-Final Year E&TC Engineering Student  
-Aspiring Software Developer
+Tanaya Khaire
